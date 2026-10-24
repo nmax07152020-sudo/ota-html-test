@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "url": "https://github.com/nmax07152020-sudo/ota-html-test/releases/download/ota-sample-v2-clean1/ota-sample-v2.zip",
+ "url": "https://github.com/nmax07152020-sudo/ota-html-test/releases/download/ota-sample-v2/ota-sample-v2.zip",
   "checksum": "67755f8d5459826c28d6ec22eb26fd084378bafcd9fec7d96859ff03807efc02",
   "notes": "V2 clean build OTA test"
 }
